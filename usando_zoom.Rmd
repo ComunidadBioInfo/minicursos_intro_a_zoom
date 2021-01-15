@@ -1,0 +1,74 @@
+---
+title: "¡Bienvenidxs!"
+output:
+  xaringan::moon_reader:
+    css: ["css/rmb.css","css/rmb-fonts.css"]
+    lib_dir: libs
+    
+---
+
+class: chapter-slide
+
+# Código de Conducta
+
+---
+
+class: middle, center
+
+```{r, echo=FALSE, out.width = "100%" }
+knitr::include_graphics("img/codigo.png")
+```
+
+[https://comunidadbioinfo.github.io/es/codigo-de-conducta/](https://comunidadbioinfo.github.io/es/codigo-de-conducta/)
+
+---
+
+class: middle, center
+
+### Si necesitas reportar una ruptura al Código de Conducta escríbenos a
+
+### **cdsbmexico@gmail.com**
+
+---
+
+class: chapter-slide
+
+# Herramientas de Zoom
+
+---
+
+class: middle
+
+```{r, echo=FALSE, out.width = "100%" }
+knitr::include_graphics("img/mute.png")
+```
+
+---
+class: middle
+```{r, echo=FALSE, out.width = "100%" }
+knitr::include_graphics("img/video.png")
+```
+
+---
+class: middle
+```{r, echo=FALSE, out.width = "100%" }
+knitr::include_graphics("img/participantes.png")
+```
+
+---
+class: middle
+```{r, echo=FALSE, out.width = "100%" }
+knitr::include_graphics("img/chat.png")
+```
+
+---
+class: middle
+```{r, echo=FALSE, out.width = "100%" }
+knitr::include_graphics("img/reacciones.png")
+```
+
+---
+
+class: title-slide, center, middle
+
+# ¡Disfruten el curso!
